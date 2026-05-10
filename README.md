@@ -257,7 +257,7 @@ The Flask backend acts as a lightweight proxy between frontend and Flowise API.
 ## API Endpoint
 
 ```text
-https://cloud.flowiseai.com/api/v1/prediction/0dd4bc76-534b-405a-97fc-41a1ba4
+https://cloud.flowiseai.com/api/v1/prediction/<value>>
 ```
 
 ---
